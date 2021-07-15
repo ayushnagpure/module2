@@ -1,0 +1,9 @@
+Water drank at 2021-07-15 19:11:38.409754 500 ml.
+Water drank at 2021-07-15 19:12:27.640339 750 ml.
+Water drank at 2021-07-15 19:13:26.305115 750 ml.
+Water drank at 2021-07-15 19:14:34.005666 1000 ml.
+Water drank at 2021-07-15 19:15:44.528703 900 ml.
+Water drank at 2021-07-15 19:17:38.923024 2000 ml.
+Water drank at 2021-07-15 19:18:23.880633 1000 ml.
+Water drank at 2021-07-15 19:19:05.989420 500 ml.
+Water drank at 2021-07-15 19:19:49.609937 500 ml.
